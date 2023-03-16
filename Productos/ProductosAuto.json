@@ -1,0 +1,20 @@
+[
+    {
+        "Nombre Paquete": "Plan Rc",
+        "Antiguedad": "1900",
+        "Coberturas": "Responsabilidad civil por daños a terceros, Responsabilidad civil por muerte de terceros"
+    },
+
+
+    {
+        "Nombre Paquete": "Plan Extend",
+        "Antiguedad": "1990-2023",
+        "Coberturas": "Responsabilidad civil por daños a terceros, Responsabilidad civil por muerte de terceros, Robo e incendio total del vehiculo"
+    },
+
+    {
+        "Nombre Paquete": "Plan Advance",
+        "Antiguedad": "2005-2023",
+        "Coberturas": "Responsabilidad civil por daños a terceros, Responsabilidad civil por muerte de terceros, Robo e incendio total del vehiculo, Robo e incendio parcial del vehiculo"
+    }
+]
